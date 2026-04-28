@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+*{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style: none;
+    display:center;
+}
+main{
+    background-color:white;
+    width: 700px;
+    padding: 10px;
+    margin: auto;
+    border-radius:2%;
+    box-shadow: 5px 5px 5px 10px #D93654;
+}
+.Titulo{
+    border-left: 10px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: #042970;
+    background-color: #F0E206;
+}
+
+.principais{
+    background-color: #3084F2;
+}
+h1{
+    text-align: center;
+    background-color: yellow;
+}
+
+body{
+    background-image:radial-gradient(#99F2E9 20%, #57B7F2, #3084F2);
+    
+}
+header{
+    margin-top: auto;
+    margin-bottom: 20px;
+    bottom: 100px;
+    color: white;
+    background-color: #D93654;
+    text-align: justify;
+    list-style: none;
+    display: flex;
+margin-left: auto;
+
+}
+h2{
+    background-color: yellow;
+}
+.menu{
+    color: white;
+    text-decoration: none;
+    text-transform:initial;
+}
